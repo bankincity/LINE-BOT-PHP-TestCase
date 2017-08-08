@@ -2,7 +2,7 @@
 echo "Stup1";
 use LINE;
 echo "Stup2";
-//$httpClient = new \LINE\LINEBot\HTTPClient\CurlHTTPClient('F2bejKi+Zd2+2VIs9YrRAt4sctvtJv6MMDlPN6kTh9eo1Xoh/Lq8021aEtL0yDk7yh5HYkaQEbvM52DJR7yNt162DM5dyg0qPkdZneUrAX1mrgkxaP3KDee0CnhdZARnowHeuggOVRJI7L98Knm7PwdB04t89/1O/w1cDnyilFU=');
+$httpClient = new \LINE\LINEBot\HTTPClient\CurlHTTPClient('F2bejKi+Zd2+2VIs9YrRAt4sctvtJv6MMDlPN6kTh9eo1Xoh/Lq8021aEtL0yDk7yh5HYkaQEbvM52DJR7yNt162DM5dyg0qPkdZneUrAX1mrgkxaP3KDee0CnhdZARnowHeuggOVRJI7L98Knm7PwdB04t89/1O/w1cDnyilFU=');
 $access_token = 'F2bejKi+Zd2+2VIs9YrRAt4sctvtJv6MMDlPN6kTh9eo1Xoh/Lq8021aEtL0yDk7yh5HYkaQEbvM52DJR7yNt162DM5dyg0qPkdZneUrAX1mrgkxaP3KDee0CnhdZARnowHeuggOVRJI7L98Knm7PwdB04t89/1O/w1cDnyilFU=';
 echo "Stup3";
 // Get POST body content
